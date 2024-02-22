@@ -1,7 +1,7 @@
 ﻿Group: Zeta
 Members: Smit Dave
 	 Kejan Jada
-	 Mandeep Kaur
+	 Amandeep Kure
 	 
 Topic: Flower
 Web-AppName: Elite Flowers
@@ -70,7 +70,7 @@ Twig & Arrow emphasizes sustainability and community engagement, supporting loca
 Introduction to Zeta Group's Flower Collection:
 
 :-> Welcome to the world of Zeta Group's Flower Collection, where beauty meets elegance in every petal. 
-:-> Led by members Smit Dave, Kejan Jada and () .
+:-> Led by members Smit Dave, Kejan Jada and Amandeep Kure.
 :-> We have Decided to Choose these topics Types, Colors, Prices, Images, and Quantity.
 :-> We have take content from these websites.
 Elite Flower Overview:
