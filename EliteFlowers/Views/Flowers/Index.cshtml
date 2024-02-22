@@ -24,6 +24,9 @@
     <thead>
         <tr>
             <th>
+                @Html.DisplayNameFor(model => model.Flowers![0].Id)
+            </th>
+            <th>
                 @Html.DisplayNameFor(model => model.Flowers![0].FlowerType)
             </th>
             <th>
@@ -46,6 +49,9 @@
     <tbody>
 @foreach (var item in Model.Flowers!) {
         <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
             <td>
                 @Html.DisplayFor(modelItem => item.FlowerType)
             </td>

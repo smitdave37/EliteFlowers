@@ -28,6 +28,7 @@ public class SeedData : Controller
             context.Flowers.AddRange(
             new Flowers
             {
+                    
                     FlowerType = "Rose",
                     Quantity = 3.00M,
                     Color = "Red",
