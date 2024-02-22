@@ -11,6 +11,25 @@ Web-AppName: Elite Flowers
 1830
 Review : Get Started, Add a Controller, and Add a View
 
+Reserch:
+
+
+1. https://www.scottsflowersnyc.com/
+
+2. https://www.plantshed.com/tootsie
+
+3. https://www.frenchflorist.com/sweet-champagne/
+
+4. https://www.terrabellaflowers.com/products/spellbound
+
+5. https://www.flowerstation.co.uk/a-parisian-romance/
+
+6. https://www.kensingtonflowers.co.uk/product/vintage-flower-bottles/
+
+7. https://graceandthorn.com/collections/flowers/products/wildthing
+
+8. https://twigandarrow.com/collections/flowers-1/products/market-style-bouquet-subscription 
+
 Introduction to Zeta Group's Flower Collection:
 
 :-> Welcome to the world of Zeta Group's Flower Collection, where beauty meets elegance in every petal. 

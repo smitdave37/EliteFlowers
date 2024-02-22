@@ -1,6 +1,7 @@
 ﻿using EliteFlowers.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.Extensions.Hosting.Internal;
 using System.Drawing;
 
@@ -22,38 +23,47 @@ public class SeedData : Controller
             context.Flowers.AddRange(
             new Flowers
             {
-                    FlowerType = "When Harry Met Sally",
-                    Quantity = 5.55M,
-                    Color = "Romantic Comedy",
-                    Size = "R",
-                    Price = 7.99M,
+                    FlowerType = "Rose",
+                    Quantity = 3.00M,
+                    Color = "Red",
+                    Size = "Small",
+                    Price = 20.00M,
             },
                 new Flowers
                 {
-                    FlowerType = "Ghostbusters ",
-                    Quantity = 5.55M,
-                    Color = "Comedy",
-                    Size = "R",
-                    Price = 8.99M,
+                    FlowerType = "Sun Flower",
+                    Quantity = 2.00M,
+                    Color = "Yellow",
+                    Size = "Large",
+                    Price = 20.00M,
                     
                 },
                 new Flowers
                 {
-                    FlowerType = "Ghostbusters 2",
-                    Quantity = 5.55M,
-                    Color = "Comedy",
-                    Size = "R",
-                    Price = 9.99M,
+                    FlowerType = "Tulip",
+                    Quantity = 5.00M,
+                    Color = "Purple",
+                    Size = "Small",
+                    Price = 10.00M,
                     
                 },
                 new Flowers
                 {
-                    FlowerType = "Rio Bravo",
-                    Quantity = 5.55M,
-                    Color = "Western",
-                    Size = "R",
-                    Price = 3.99M,
+                    FlowerType = "Orchid",
+                    Quantity =1.00M,
+                    Color = "White",
+                    Size = "Medium",
+                    Price = 30.00M,
                     
+                },
+                new Flowers
+                {
+                    FlowerType = "Marigold",
+                    Quantity = 2.00M,
+                    Color = "Yellow",
+                    Size = "Large",
+                    Price = 6.00M,
+
                 }
             );
             context.SaveChanges();
