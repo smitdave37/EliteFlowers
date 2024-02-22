@@ -13,29 +13,66 @@ Review : Get Started, Add a Controller, and Add a View
 
 Reserch:
 
+Scotts Flowers NYC (https://www.scottsflowersnyc.com/):
 
-1. https://www.scottsflowersnyc.com/
+Scotts Flowers NYC is a boutique flower shop located in New York City. They offer a wide range of floral arrangements for various occasions, including weddings, corporate events, and everyday occasions.
+The website features a diverse selection of bouquets, plants, and gifts, with options for customization and personalization.
+Scotts Flowers NYC emphasizes high-quality floral designs and excellent customer service, catering to both individual customers and businesses in the NYC area.
 
-2. https://www.plantshed.com/tootsie
 
-3. https://www.frenchflorist.com/sweet-champagne/
+PlantShed (https://www.plantshed.com/tootsie):
 
-4. https://www.terrabellaflowers.com/products/spellbound
+PlantShed is a florist and garden center based in New York City, known for its extensive collection of plants, flowers, and gifts.
+The website showcases a variety of floral arrangements, planters, and gift baskets suitable for different occasions and preferences.
+PlantShed offers delivery services in NYC, providing convenience for customers looking to send floral gifts or enhance their living spaces with greenery.
 
-5. https://www.flowerstation.co.uk/a-parisian-romance/
 
-6. https://www.kensingtonflowers.co.uk/product/vintage-flower-bottles/
+French Florist (https://www.frenchflorist.com/sweet-champagne/):
 
-7. https://graceandthorn.com/collections/flowers/products/wildthing
+French Florist is a long-standing floral company serving the Los Angeles area since 1978. They specialize in elegant floral designs for weddings, events, and everyday occasions.
+The website features a curated selection of floral arrangements, including bouquets, centerpieces, and sympathy flowers, reflecting French Florist's commitment to quality and creativity.
+French Florist offers local delivery in Los Angeles and ensures customer satisfaction through personalized service and attention to detail.
 
-8. https://twigandarrow.com/collections/flowers-1/products/market-style-bouquet-subscription 
+
+erra Bella Flowers (https://www.terrabellaflowers.com/products/spellbound):
+
+Terra Bella Flowers is a boutique florist located in Portland, Oregon, known for its distinctive floral designs inspired by nature and seasonal blooms.
+The website showcases a range of artistic arrangements, including hand-tied bouquets, terrariums, and garden-inspired creations.
+Terra Bella Flowers emphasizes sustainability and eco-conscious practices in sourcing their flowers and materials, aligning with Portland's ethos of environmental stewardship.
+
+
+Flower Station (https://www.flowerstation.co.uk/a-parisian-romance/):
+
+Flower Station is a London-based florist offering a wide selection of fresh flowers, bouquets, and floral gifts for delivery across the UK.
+The website features a diverse range of floral arrangements, from classic roses to contemporary designs, suitable for various occasions and preferences.
+Flower Station provides same-day delivery options and strives to ensure the freshness and quality of their flowers, earning a reputation for reliability and customer satisfaction.
+
+
+Kensington Flowers (https://www.kensingtonflowers.co.uk/product/vintage-flower-bottles/):
+
+Kensington Flowers is a florist located in London's prestigious Kensington neighborhood, specializing in bespoke floral designs and luxury arrangements.
+The website showcases an array of elegant floral creations, including hand-tied bouquets, vase arrangements, and wedding flowers, crafted with attention to detail and artistic flair.
+Kensington Flowers offers delivery services throughout London, catering to discerning clients seeking premium-quality blooms and personalized service.
+
+
+Grace & Thorn (https://graceandthorn.com/collections/flowers/products/wildthing):
+
+Grace & Thorn is a contemporary florist based in London, known for its unique and unconventional approach to floral design.
+The website features a curated selection of "wild and wonderful" floral arrangements, characterized by their naturalistic style and bold, avant-garde aesthetic.
+Grace & Thorn offers delivery across London and has gained a cult following for their distinctive floral creations, which often incorporate unusual botanicals and textures.
+
+Twig & Arrow (https://twigandarrow.com/collections/flowers-1/products/market-style-bouquet-subscription):
+
+Twig & Arrow is a boutique flower shop located in Nashville, Tennessee, specializing in seasonal blooms and custom floral arrangements.
+The website offers a subscription service for market-style bouquets, providing customers with regular deliveries of fresh, hand-picked flowers sourced from local farms and growers.
+Twig & Arrow emphasizes sustainability and community engagement, supporting local agriculture and promoting the beauty of seasonal flowers through their subscription service.
 
 Introduction to Zeta Group's Flower Collection:
 
 :-> Welcome to the world of Zeta Group's Flower Collection, where beauty meets elegance in every petal. 
 :-> Led by members Smit Dave, Kejan Jada and () .
 :-> We have Decided to Choose these topics Types, Colors, Prices, Images, and Quantity.
-
+:-> We have take content from these websites.
 Elite Flower Overview:
 
 :-> Elite Flower is a design pattern widely adopted in software development to organize code effectively, promoting separation of concerns and 
