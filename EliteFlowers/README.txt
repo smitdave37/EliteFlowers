@@ -9,7 +9,7 @@ Topic: Flower
 Web-AppName: Elite Flowers
 
 Update This in Nuget Manager:
-Update-Database -Context EliteFlowersContext
+Update-Database -Context EliteFlowersContext  
 
 2024-02-15
 1830
