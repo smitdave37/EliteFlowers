@@ -1,12 +1,14 @@
 ﻿Group: Zeta
 Members: Smit Dave
 		 Kejan Jada
-		 Amandeep Kure
+		 Amandeep Kaur
 	 
 
 Topic: Flower
 Web-AppName: Elite Flowers
 
+Update This in Nuget Manager:
+Update-Database -Context EliteFlowersContext
 
 2024-02-15
 1830
