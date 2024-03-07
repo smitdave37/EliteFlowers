@@ -17,6 +17,8 @@ Review : Get Started, Add a Controller, and Add a View
 
 Reserch:
 
+Smit Dave, Kejan Jada did Searching :- 
+
 Scotts Flowers NYC (https://www.scottsflowersnyc.com/):
 
 Scotts Flowers NYC is a boutique flower shop located in New York City. They offer a wide range of floral arrangements for various occasions, including weddings, corporate events, and everyday occasions.
@@ -71,6 +73,9 @@ Twig & Arrow is a boutique flower shop located in Nashville, Tennessee, speciali
 The website offers a subscription service for market-style bouquets, providing customers with regular deliveries of fresh, hand-picked flowers sourced from local farms and growers.
 Twig & Arrow emphasizes sustainability and community engagement, supporting local agriculture and promoting the beauty of seasonal flowers through their subscription service.
 
+
+Amandeep Kaur:-
+
 Introduction to Zeta Group's Flower Collection:
 
 :-> Welcome to the world of Zeta Group's Flower Collection, where beauty meets elegance in every petal. 
@@ -111,6 +116,8 @@ Observation: This is a very basic overview, and actual implementations may vary 
 1945
 Review : Add a Model
 
+Smit Dave and Kejan Jada did Moduals :-
+
 Model: Represents the application's data and business logic. It is responsible for data storage, retrieval, and manipulation.
 :-> Adding a model to an ASP.NET Core Elite Flower app involves defining data structures that represent the application's business entities. 
 :-> These models are typically used to interact with a database, process user input, and facilitate communication between different 
@@ -119,6 +126,9 @@ Model: Represents the application's data and business logic. It is responsible f
 
 :-> The DataType attribute, when applied to a property like ReleaseDate, specifies the type of data expected for that property. In this case, by specifying
     DataType.Date, it indicates that the ReleaseDate property should only contain date information, without any time component.
+
+
+Amandeep Kaur find some details on Attribute :-
 
 :-> With this attribute:
 
@@ -156,6 +166,8 @@ Observation:
 1306
 Review : work with a database (SQL)
 20240219003744_InitialCreate.cs <--: Initial File.
+
+Amandeep Kaur is searching :- 
 
 :-> Working with a database entails interacting with a structured collection of data to efficiently store, retrieve, update, and manage information.
 :-> A Database Management System (DBMS) refers to software designed to facilitate the creation, maintenance, and manipulation of databases. 
@@ -202,6 +214,8 @@ Observation:
 1551
 Review : controller methods and views
 
+Smit add controllers :-
+
 :-> Controllers handle the logic of your application, including processing input, interacting with the model (database), and rendering views. 
 :-> Views are the presentation layer of your application, typically containing HTML, CSS, and sometimes JavaScript to display data to users.
 
@@ -209,6 +223,9 @@ Review : controller methods and views
 	Controller actions are methods within the controller component of an Elite Flower framework. They handle incoming
 	requests from users, process data, interact with the model (database), and determine which view to render. 
 :-> Controller actions encapsulate the logic of your application and serve as the bridge between the user interface and the data layer.
+
+
+Kejan Jada Did Views :-
 
 :-> Views:
 	:Views play a vital role in conveying data to users in a comprehensible format, often using HTML with dynamic content. 
@@ -227,6 +244,8 @@ Observation:
 2024-02-19
 0913
 Review : Add a Search and A new File
+
+Amandeep Kaur add new field and Kejan Jada Add search and filter :-
 
 Model:
 
@@ -257,14 +276,17 @@ Observation:
 2105
 Review : Add validation and Examine Details and Delete
 
-Model: 
+Kejan Jada Fullfil details on flowers :-
 
-:-> Adding validation: 
+Model: 
+-> Adding validation: 
 	:Adding validation ensures that the data entered by users meets specific criteria or constraints before it is stored in the database. 
 	:This process includes various checks such as verifying mandatory fields, validating input formats like email addresses or phone numbers, ensuring
 	 data falls within defined ranges such as dates or numerical values, and safeguarding against malicious input like SQL injection. By implementing
 	 these checks, validation plays a vital role in preserving data integrity and reducing the risk of storing incorrect or inappropriate data in the 
 	 database.
+
+Smit Dave and Amandeep Kaur Examin the rest details :-
 
 :-> Examine Details and Delete: 
 	:The Examine Details and Delete functionality allows users to access detailed information about a particular record or entity within the 
