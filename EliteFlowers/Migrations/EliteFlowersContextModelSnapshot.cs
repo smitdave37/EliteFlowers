@@ -49,7 +49,7 @@ namespace EliteFlowers.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Flowers");
+                    b.ToTable("Flowers", (string)null);
                 });
 #pragma warning restore 612, 618
         }

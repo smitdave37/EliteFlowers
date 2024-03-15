@@ -15,5 +15,7 @@ namespace EliteFlowers.Data
         }
 
         public DbSet<EliteFlowers.Models.Flowers> Flowers { get; set; }
+
+        public DbSet<ApplicationUser> ApplicationUser { get; set; }
     }
 }

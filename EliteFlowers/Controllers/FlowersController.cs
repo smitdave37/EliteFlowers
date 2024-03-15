@@ -11,10 +11,11 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using EliteFlowers.Data;
 using EliteFlowers.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EliteFlowers.Controllers
 {
-
+    [Authorize(Roles = "Guest, Admin")]
     public class FlowersController : Controller
     {
         private readonly EliteFlowersContext _context;
@@ -72,12 +73,13 @@ namespace EliteFlowers.Controllers
             return View(flowers);
         }
 
+        [Authorize(Roles = "Admin")]
         // GET: Flowers/Create
         public IActionResult Create()
         {
             return View();
         }
-
+     
         // POST: Flowers/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
@@ -92,7 +94,7 @@ namespace EliteFlowers.Controllers
 
             return View(flowers);
         }
-
+        [Authorize(Roles = "Admin")]
         // GET: Flowers/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
@@ -108,7 +110,7 @@ namespace EliteFlowers.Controllers
             }
             return View(flowers);
         }
-
+        [Authorize(Roles = "Admin")]
         // POST: Flowers/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
@@ -142,7 +144,7 @@ namespace EliteFlowers.Controllers
             return View(flowers);
         }
 
-
+        [Authorize(Roles = "Admin")]
         // GET: Flowers/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
