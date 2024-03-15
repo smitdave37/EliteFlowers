@@ -16,9 +16,9 @@ public class SeedData : Controller
 {
     public static void Initialize(IServiceProvider serviceProvider)
     {
-        using (var context = new EliteFlowersContext(
+        using (var context = new ApplicationDbContext(
             serviceProvider.GetRequiredService<
-                DbContextOptions<EliteFlowersContext>>()))
+                DbContextOptions<ApplicationDbContext>>()))
         {
             // Look for any movies.
             if (context.Flowers.Any())

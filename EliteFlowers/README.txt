@@ -322,6 +322,61 @@ Observation:
     against accidental removal, further contributing to efficient data management. 
 :-> These enhancements empower users with streamlined data management capabilities, leading to a more user-centric experience.
 
+.
+.
+.
+.
+2024-03-13
+2122
+Review : Deployment of the EliteFlowers on Azure
+
+:-> Deploying EliteFlowers on Azure involves several steps to ensure a smooth and efficient process. 
+
+:-> Planning and Preparation:
+				Identify the components of EliteFlowers that need to be deployed, such as web servers, application servers, databases, etc.
+				Determine the Azure services required to host these components, considering factors like scalability, performance, and cost.
+				Set up an Azure subscription if not already done, and gather necessary credentials and access permissions.
+
+:-> Azure Resources Setup:
+				Create the necessary Azure resources such as Virtual Machines (VMs), App Services, Databases (Azure SQL Database or Cosmos DB), Storage Accounts, 
+				Networking configurations, etc., based on the application's requirements.
+				Configure appropriate security measures such as Network Security Groups (NSGs), Firewalls, Encryption, etc.
+
+:-> Deployment Process:
+				Deploy the application code to Azure, either by deploying Docker containers, uploading code directly to App Services, or using other deployment methods.
+				Set up Continuous Integration/Continuous Deployment (CI/CD) pipelines using Azure DevOps, GitHub Actions, or any other preferred tool for automated deployment.
+				Ensure that the deployment process is well-documented, including rollback procedures in case of failures.
+
+:-> Testing and Optimization:
+				Conduct thorough testing of the deployed application to ensure functionality, performance, and security.
+				Optimize Azure resources and configurations based on performance metrics and user feedback.
+
+:-> Documentation and Knowledge Sharing:
+				Document the deployment process, including configurations, dependencies, and troubleshooting steps.
+				Share knowledge with the team members responsible for maintaining and managing the deployed application.
+
+.
+.
+.
+.
+2024-03-15
+2344
+Review : Authentaction and authoraization
+
+:-> Authentication and authorization are two fundamental concepts in computer security, often used together to control access to resources in a system. 
+
+:-> Authentication:-
+				Authentication is the process of verifying the identity of a user or system. It answers the question, "Who are you?" In authentication, a user provides 
+				some form of credentials (such as a username and password, a security token, biometric data, etc.), and the system verifies these credentials against its 
+				records to determine whether the user is who they claim to be.
+
+:-> Authorization:-
+				Authorization, on the other hand, is the process of determining what actions or resources a user is allowed to access or perform after they have been authenticated. 
+				It answers the question, "What are you allowed to do?" Authorization controls what actions a user can take within the system based on their identity and privileges.
+				Authorization mechanisms typically involve assigning permissions or privileges to authenticated users or groups.
+
+
+
 
 
 
