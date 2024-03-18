@@ -15,7 +15,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace EliteFlowers.Controllers
 {
-    //[Authorize(Roles = "Guest, Admin")]
+    [Authorize(Roles = "Guest, Admin")]
     public class FlowersController : Controller
     {
         private readonly EliteFlowersContext _context;
