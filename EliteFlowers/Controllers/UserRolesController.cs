@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace EliteFlowers.Controllers
 {
-   [Authorize(Roles = "Admin")]
+   /*[Authorize(Roles = "Admin")]*/
     public class UserRolesController : Controller
     {
         private readonly RoleManager<IdentityRole> _roleManager;
@@ -21,7 +21,7 @@ namespace EliteFlowers.Controllers
             var roles = _roleManager.Roles;
             return View(roles);
         }
-
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public IActionResult Create()
         {
